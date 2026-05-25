@@ -29,13 +29,11 @@ Dataset yang digunakan adalah **Go!Track Trajectories** dari UCI Machine Learnin
 ## 📈 Hasil dan Visualisasi
 Algoritma K-Means berhasil memisahkan data ke dalam 3 profil perjalanan yang berbeda. Sentroid (titik pusat) dari masing-masing klaster ditandai dengan jelas (tanda "X" merah), yang merepresentasikan titik tengah karakteristik (rata-rata kecepatan dan parameter lainnya) untuk setiap kelompok.
 
-> 💡 *Saran Showcase:* Ganti path gambar di bawah ini dengan gambar hasil plot yang Anda hasilkan dari Google Colab setelah di-push ke GitHub.
-
 ### 1. Sebaran Data Awal
-![Visualisasi Sebaran Data](https://via.placeholder.com/800x400.png?text=Upload+scatter_dist_speed.png+ke+repo+Anda)
+<img width="571" height="434" alt="image" src="https://github.com/user-attachments/assets/107f9425-ec45-44a0-adfd-c44ed755afd1" />
 
 ### 2. Hasil K-Means Clustering & Centroid
-![Hasil Klastering K-Means](https://via.placeholder.com/800x400.png?text=Upload+kmeans_clusters.png+ke+repo+Anda)
+<img width="695" height="547" alt="image" src="https://github.com/user-attachments/assets/eca04903-08fe-44fe-9fc3-c4b4ce11bfe7" />
 
 ## 🚀 Cara Menjalankan di Google Colab
 1. Buka [Google Colab](https://colab.research.google.com/).
